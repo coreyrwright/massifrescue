@@ -1,4 +1,5 @@
 # Massif Rescue Game
 
-This is a basic adventure game that was built in pythong for a class
+This is a basic adventure game that was built in python for a class
 project in Udacity. 
+
